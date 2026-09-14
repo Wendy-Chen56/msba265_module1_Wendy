@@ -45,7 +45,7 @@ msba265_module1_Wendy/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR-NEW-REPOSITORY-URL
+git clone https://github.com/Wendy-Chen56/msba265_module1_Wendy.git
 cd msba265_module1_Wendy
 ```
 
